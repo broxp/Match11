@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <UnitTestResult>
+      <TestDate>2017-01-27T00:01:31</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,11ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T00:02:39</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,10ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T00:03:02</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,10ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T00:03:29</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,10ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T00:03:49</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,11ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:07:52</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,11ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:09:24</TestDate>
+      <Passed>0</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:10:46</TestDate>
+      <Passed>0</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:11:19</TestDate>
+      <Passed>0</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:12:15</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,15ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:12:37</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.</Message>
+      <StackTrace>   bei MonoDevelop.NUnit.UnitTestResult.CreateFailure(String message, Exception ex) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTestResult.cs:Zeile 67.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 406.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:13:29</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,16ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:13:43</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.</Message>
+      <StackTrace>   bei MonoDevelop.NUnit.UnitTestResult.CreateFailure(String message, Exception ex) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTestResult.cs:Zeile 67.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 406.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:13:52</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.</Message>
+      <StackTrace>   bei MonoDevelop.NUnit.UnitTestResult.CreateFailure(String message, Exception ex) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTestResult.cs:Zeile 67.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 406.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:17:50</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:56088</Message>
+      <StackTrace>
+Server stack trace: 
+   bei System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   bei System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   bei System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   bei System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders&amp; responseHeaders, Stream&amp; responseStream)
+   bei System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   bei System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   bei System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   bei MonoDevelop.Core.Execution.RemoteProcessObject.Dispose()
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 410.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:18:47</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:56156</Message>
+      <StackTrace>
+Server stack trace: 
+   bei System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   bei System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   bei System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   bei System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders&amp; responseHeaders, Stream&amp; responseStream)
+   bei System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   bei System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   bei System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   bei MonoDevelop.Core.Execution.RemoteProcessObject.Dispose()
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 410.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:26:15</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.</Message>
+      <StackTrace>   bei MonoDevelop.NUnit.UnitTestResult.CreateFailure(String message, Exception ex) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTestResult.cs:Zeile 67.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 406.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T01:48:55</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.</Message>
+      <StackTrace>   bei MonoDevelop.NUnit.UnitTestResult.CreateFailure(String message, Exception ex) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTestResult.cs:Zeile 67.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 406.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T02:56:28</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:49302</Message>
+      <StackTrace>
+Server stack trace: 
+   bei System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   bei System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   bei System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   bei System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   bei System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   bei System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders&amp; responseHeaders, Stream&amp; responseStream)
+   bei System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   bei System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   bei System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   bei MonoDevelop.Core.Execution.RemoteProcessObject.Dispose()
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 410.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T02:56:40</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.</Message>
+      <StackTrace>   bei MonoDevelop.NUnit.UnitTestResult.CreateFailure(String message, Exception ex) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTestResult.cs:Zeile 67.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.RunUnitTest(UnitTest test, String suiteName, String pathName, String testName, TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 406.
+   bei MonoDevelop.NUnit.NUnitAssemblyTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitAssemblyTestSuite.cs:Zeile 333.
+   bei MonoDevelop.NUnit.NUnitProjectTestSuite.OnRun(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\NUnitProjectTestSuite.cs:Zeile 123.
+   bei MonoDevelop.NUnit.UnitTest.Run(TestContext testContext) in c:\buildslave\monodevelop\build\monodevelop\main\src\addins\NUnit\Services\UnitTest.cs:Zeile 361.</StackTrace>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T02:58:27</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,12ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T02:59:15</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,14ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T02:59:21</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,12ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:04:14</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,14ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:05:54</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,14ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:09:19</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,14ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:09:26</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,14ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:09:38</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,05ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:12:36</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,05ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:18:59</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,05ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:44:34</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,14ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:45:14</TestDate>
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,14ms</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2017-01-27T03:47:28</TestDate>
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>Test successful
+
+Execution time: 0,06ms</Message>
+    </UnitTestResult>
+  </Results>
+  <Tests>
+    <TestRecord Name="AssemblyCSharp">
+      <Results>
+        <UnitTestResult>
+          <TestDate>2017-01-27T00:01:31</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,07ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T00:02:39</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,07ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T00:03:02</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,07ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T00:03:29</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,07ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T00:03:49</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,07ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T01:07:52</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,08ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T01:09:24</TestDate>
+          <Passed>0</Passed>
+          <Errors>1</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T01:10:46</TestDate>
+          <Passed>0</Passed>
+          <Errors>1</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T01:11:19</TestDate>
+          <Passed>0</Passed>
+          <Errors>1</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T01:12:15</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T01:13:29</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,12ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T02:58:27</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,09ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T02:59:15</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T02:59:21</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,09ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T03:04:14</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T03:05:54</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T03:09:19</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T03:09:26</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T03:44:34</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2017-01-27T03:45:14</TestDate>
+          <Passed>1</Passed>
+          <Errors>0</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>Test successful
+
+Execution time: 0,11ms</Message>
+        </UnitTestResult>
+      </Results>
+      <Tests>
+        <TestRecord Name="Test">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2017-01-27T00:01:31</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,07ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T00:02:39</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,07ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T00:03:02</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,07ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T00:03:29</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,07ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T00:03:49</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,07ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T01:07:52</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,08ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T01:09:24</TestDate>
+              <Passed>0</Passed>
+              <Errors>1</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T01:10:46</TestDate>
+              <Passed>0</Passed>
+              <Errors>1</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T01:11:19</TestDate>
+              <Passed>0</Passed>
+              <Errors>1</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T01:12:15</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,11ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T01:13:29</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,12ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T02:58:27</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,09ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T02:59:15</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,11ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T02:59:21</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,09ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T03:04:14</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,11ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T03:05:54</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,11ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T03:09:19</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,11ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T03:09:26</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,09ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T03:44:34</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,09ms</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2017-01-27T03:45:14</TestDate>
+              <Passed>1</Passed>
+              <Errors>0</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>Test successful
+
+Execution time: 0,11ms</Message>
+            </UnitTestResult>
+          </Results>
+          <Tests>
+            <TestRecord Name="TestCase">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T00:01:31</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,05ms</Message>
+                  <ConsoleOutput>0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T00:02:39</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,04ms</Message>
+                  <ConsoleOutput>0 7 8 1 -6 -8 -2 5 8 3 
+0 7 8 1 -6 -8 -2 5 8 3 
+8 1 -6 -8 -2 5 8 3 -4 -8 
+1 -6 -8 -2 5 8 3 -4 -8 -4 
+8 3 -4 -8 -4 3 8 5 -2 -8 
+-4 -8 -4 3 8 5 -2 -8 -6 1 
+-6 1 8 7 0 -7 -8 -1 6 8 
+7 0 -7 -8 -1 6 8 2 -5 -8 
+4 8 4 -3 -8 -5 2 8 6 -1 
+-8 -5 2 8 6 -1 -8 -7 0 7 
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T00:03:02</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,04ms</Message>
+                  <ConsoleOutput>0 7 8 1 6 8 2 5 8 3 
+0 7 8 1 6 8 2 5 8 3 
+8 1 6 8 2 5 8 3 4 8 
+1 6 8 2 5 8 3 4 8 4 
+8 3 4 8 4 3 8 5 2 8 
+4 8 4 3 8 5 2 8 6 1 
+6 1 8 7 0 7 8 1 6 8 
+7 0 7 8 1 6 8 2 5 8 
+4 8 4 3 8 5 2 8 6 1 
+8 5 2 8 6 1 8 7 0 7 
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T00:03:29</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,05ms</Message>
+                  <ConsoleOutput>0 0 0 0 0 0 0 0 0 0 
+0 7 7 8 8 1 1 6 6 8 
+7 8 1 1 6 8 8 2 5 5 
+7 8 1 6 6 8 2 5 5 8 
+8 1 6 8 2 2 5 8 3 4 
+8 1 6 8 2 5 5 8 3 4 
+1 6 8 2 5 8 3 3 4 8 
+1 6 8 2 5 8 3 4 4 8 
+6 8 2 5 8 3 4 8 4 4 
+6 8 2 5 8 3 4 8 4 3 
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T00:03:49</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,05ms</Message>
+                  <ConsoleOutput>0 7 8 1 6 8 2 5 8 3 
+1 8 2 5 8 3 4 8 4 3 
+2 8 4 8 4 3 8 5 2 8 
+3 4 3 5 2 8 6 1 8 7 
+4 5 8 6 8 7 0 7 8 1 
+5 1 7 0 7 1 6 8 2 5 
+6 0 8 6 8 2 8 3 4 8 
+7 6 2 8 3 4 8 3 8 5 
+8 5 4 8 3 8 5 2 6 1 
+8 8 3 5 8 6 1 8 7 7 
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T01:07:52</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,04ms</Message>
+                  <ConsoleOutput>0 7 8 1 6 8 2 5 8 3 
+1 8 2 5 8 3 4 8 4 3 
+2 8 4 8 4 3 8 5 2 8 
+3 4 3 5 2 8 6 1 8 7 
+4 5 8 6 8 7 0 7 8 1 
+5 1 7 0 7 1 6 8 2 5 
+6 0 8 6 8 2 8 3 4 8 
+7 6 2 8 3 4 8 3 8 5 
+8 5 4 8 3 8 5 2 6 1 
+8 8 3 5 8 6 1 8 7 7 
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T01:09:24</TestDate>
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>System.ArgumentOutOfRangeException : Das angegebene Argument liegt außerhalb des gültigen Wertebereichs.
+Parametername: count</Message>
+                  <StackTrace>   bei System.Linq.Enumerable.Range(Int32 start, Int32 count)
+   bei RubyExt.up_to(Int32 o, Int32 upper) in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 14.
+   bei RubyExt.downto(Int32 o, Int32 upper) in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 19.
+   bei Ruby.fall_down() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 202.
+   bei Ruby.delete_and_refill() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 292.
+   bei Ruby.main() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 337.
+   bei AssemblyCSharp.Test.TestCase() in d:\Projekte\C#\Match11\Assets\Test.cs:Zeile 12.</StackTrace>
+                  <ConsoleOutput>Welcome to match3 (broxp.github.com/match3), a ruby app in your browser (using opal).
+
+The target is to gain points by matching 3 or more numbers of the same value.
+
+You will see the field displayed and select a row and column as well as a direction.
+
+){, the fields are swapped and 3 or more neighbours will disappear gaining you points.
+
+Directions are: r foreach (var right, l foreach (var left, u foreach (var up and d foreach (var down.
+
+The game will } if( there are no more valid moves.
+
+Entering ? when asked foreach (var a row will show a hint. Good luck!
+
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T01:10:46</TestDate>
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>System.IndexOutOfRangeException : Der Index war außerhalb des Arraybereichs.</Message>
+                  <StackTrace>   bei Ruby.no_more_moves() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 258.
+   bei Ruby.main_loop() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 409.
+   bei Ruby.main() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 339.
+   bei AssemblyCSharp.Test.TestCase() in d:\Projekte\C#\Match11\Assets\Test.cs:Zeile 12.</StackTrace>
+                  <ConsoleOutput>Welcome to match3 (broxp.github.com/match3), a ruby app in your browser (using opal).
+
+The target is to gain points by matching 3 or more numbers of the same value.
+
+You will see the field displayed and select a row and column as well as a direction.
+
+){, the fields are swapped and 3 or more neighbours will disappear gaining you points.
+
+Directions are: r foreach (var right, l foreach (var left, u foreach (var up and d foreach (var down.
+
+The game will } if( there are no more valid moves.
+
+Entering ? when asked foreach (var a row will show a hint. Good luck!
+
+
+
+.
+column  1  2  3      points
+       .. .. ..      0
+row 1:  2  2  2  0  0  
+    2:  2  1  1  0  0  
+    3:  2  1  1  0  0  
+    4:  0  0  0  0  0  
+    5:  0  0  0  0  0  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T01:11:19</TestDate>
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>System.IndexOutOfRangeException : Der Index war außerhalb des Arraybereichs.</Message>
+                  <StackTrace>   bei Ruby.no_more_moves() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 258.
+   bei Ruby.main_loop() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 409.
+   bei Ruby.main() in d:\Projekte\C#\Match11\Assets\Ruby.cs:Zeile 339.
+   bei AssemblyCSharp.Test.TestCase() in d:\Projekte\C#\Match11\Assets\Test.cs:Zeile 12.</StackTrace>
+                  <ConsoleOutput>Welcome to match3 (broxp.github.com/match3), a ruby app in your browser (using opal).
+
+The target is to gain points by matching 3 or more numbers of the same value.
+
+You will see the field displayed and select a row and column as well as a direction.
+
+){, the fields are swapped and 3 or more neighbours will disappear gaining you points.
+
+Directions are: r foreach (var right, l foreach (var left, u foreach (var up and d foreach (var down.
+
+The game will } if( there are no more valid moves.
+
+Entering ? when asked foreach (var a row will show a hint. Good luck!
+
+
+
+.
+column  1  2  3      points
+       .. .. ..      0
+row 1:  3  3  3  0  0  
+    2:  3  2  2  0  0  
+    3:  3  2  2  0  0  
+    4:  0  0  0  0  0  
+    5:  0  0  0  0  0  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T01:12:15</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,09ms</Message>
+                  <ConsoleOutput>Welcome to match3 (broxp.github.com/match3), a ruby app in your browser (using opal).
+
+The target is to gain points by matching 3 or more numbers of the same value.
+
+You will see the field displayed and select a row and column as well as a direction.
+
+){, the fields are swapped and 3 or more neighbours will disappear gaining you points.
+
+Directions are: r foreach (var right, l foreach (var left, u foreach (var up and d foreach (var down.
+
+The game will } if( there are no more valid moves.
+
+Entering ? when asked foreach (var a row will show a hint. Good luck!
+
+
+
+.
+column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  1  1  1  1  1  
+    2:  1  1  1  1  1  
+    3:  1  1  1  1  1  
+    4:  1  1  1  1  1  
+    5:  1  1  1  1  1  
+
+
+There are no more moves. Thank you foreach (var playing.
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T01:13:29</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,09ms</Message>
+                  <ConsoleOutput>Welcome to match3 (broxp.github.com/match3), a ruby app in your browser (using opal).
+
+The target is to gain points by matching 3 or more numbers of the same value.
+
+You will see the field displayed and select a row and column as well as a direction.
+
+){, the fields are swapped and 3 or more neighbours will disappear gaining you points.
+
+Directions are: r foreach (var right, l foreach (var left, u foreach (var up and d foreach (var down.
+
+The game will } if( there are no more valid moves.
+
+Entering ? when asked foreach (var a row will show a hint. Good luck!
+
+
+
+.
+column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  2  4  1  5  5  
+    2:  1  3  1  1  2  
+    3:  2  3  1  1  5  
+    4:  2  5  1  3  5  
+    5:  2  4  3  5  3  
+
+
+There are no more moves. Thank you foreach (var playing.
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T02:58:27</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  2  1  2  4  3  
+    2:  4  2  2  4  4  
+    3:  1  3  5  5  3  
+    4:  4  5  5  2  5  
+    5:  5  2  2  5  1  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T02:59:15</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  2  4  1  4  3  
+    2:  2  3  4  2  5  
+    3:  5  4  2  3  1  
+    4:  5  2  3  4  2  
+    5:  4  2  1  4  1  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T02:59:21</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  5  2  4  2  2  
+    2:  2  4  3  5  1  
+    3:  1  4  3  4  5  
+    4:  3  5  2  5  1  
+    5:  1  4  3  5  1  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T03:04:14</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  4  2  3  1  2  
+    2:  5  3  3  4  3  
+    3:  1  1  5  2  2  
+    4:  2  4  5  5  4  
+    5:  2  2  3  4  3  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T03:05:54</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  1  3  1  5  4  
+    2:  5  2  4  1  2  
+    3:  1  4  2  1  4  
+    4:  3  4  2  2  1  
+    5:  1  3  1  1  4  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T03:09:19</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  5  2  2  3  4  
+    2:  1  1  3  1  2  
+    3:  2  4  3  3  1  
+    4:  1  1  4  1  2  
+    5:  3  4  4  1  3  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T03:09:26</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  2  2  1  4  3  
+    2:  5  4  5  2  4  
+    3:  3  5  4  3  4  
+    4:  4  2  2  5  1  
+    5:  5  5  3  4  5  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T03:44:34</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  1  3  2  1  3  
+    2:  4  2  1  2  1  
+    3:  3  1  2  1  5  
+    4:  2  5  2  3  2  
+    5:  2  3  3  2  2  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2017-01-27T03:45:14</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0,08ms</Message>
+                  <ConsoleOutput>column  1  2  3  4  5      points
+       .. .. .. .. ..      0
+row 1:  4  3  1  2  3  
+    2:  5  1  4  4  2  
+    3:  5  4  4  5  4  
+    4:  4  5  3  1  1  
+    5:  1  2  4  4  3  
+
+
+</ConsoleOutput>
+                  <ConsoleError />
+                </UnitTestResult>
+              </Results>
+              <Tests />
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>
