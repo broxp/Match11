@@ -17,10 +17,16 @@ sci fi setting                                      >C<
 	heroes, factions, team a vs b, 1 hero / faction
 	hero ability (unlock more?)
 	-> synergy with main stat of faction
-	stats: pirates     - agility / speed
-	       alliance    - shields
-	       mechanists  - weapons
-	       scientists  - effective weapons, hacking?
+	stats: 
+	       alliance    - shields                     (first)
+	       mechanists  - weapons                     (first)
+	       pirates     - agility / speed             (later)
+	       scientists  - effective weapons, hacking? (later)
+	ship computer: tutorial,
+	               guides you to your first battle,
+		       malfunction?,
+		       taunts you on misplay,
+		       repair it as a goal?
 
 game play
 	collect resources/loyalty/points
@@ -32,6 +38,18 @@ game play
 	       missile steering challenge,
 	       repair challenge, energy shield challenge,
 	       dodge challenge
+	gain experience per match / loss?
+	  level up => reward / achievements / abilities
+	campaign with
+	  real battles against opponent
+	  and challenges in between (mutiny, comet storm, ...)
+	  and end bosses (other factions, difficult matchup)
+
+Inspiration for steps:
+https://store.steampowered.com/app/200910/Before_the_Echo
+
+Inspiration for abilities:
+https://gemsofwar.com/gallery
 
 competition
 	relaxed mode / arcade mode?
@@ -53,11 +71,9 @@ online play => lobby (global)
 	empty lobby?
 
 invite function
-	email, telnumber
+	email, telnumber, google, facebook connect, twitter?
 
-level up => reward / achievements
-
-(money)
+-money- (later)
 	shop? (no item shop if choosable items?)
 	ad? (watch to replenish lives, const. displ)
 	lifes?
