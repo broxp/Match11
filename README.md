@@ -4,9 +4,9 @@ A simple tile matching puzzle. Get it here: <a href="https://github.com/broxp/Ma
 
 <img src="screen1.png" />
 
+<a href="https://the-faction-conflict.tumblr.com/">the-faction-conflict.tumblr.com</a>
+
 <pre>
-
-
 test chamber system                                 -A-
 	temporary items (only during this level)
 
@@ -16,6 +16,11 @@ mmo like / rpg / dungeons / specific loot           -B-
 sci fi setting                                      >C<
 	heroes, factions, team a vs b, 1 hero / faction
 	hero ability (unlock more?)
+	-> synergy with main stat of faction
+	stats: pirates     - agility / speed
+	       alliance    - shields
+	       mechanists  - weapons
+	       scientists  - effective weapons, hacking?
 
 game play
 	collect resources/loyalty/points
@@ -27,18 +32,6 @@ game play
 	       missile steering challenge,
 	       repair challenge, energy shield challenge,
 	       dodge challenge
-
-(money)
-	shop? (no item shop if choosable items?)
-	ad? (watch to replenish lives, const. displ)
-	lifes?
-	themes / skins? (setting / story? fun skins?)
-	avatar / characters / heroes? (mash up / cross over)
-		ip? or generic characters
-		unlocking or buy heroes?
-		balancing?
-		loot boxes / boosters
-	level unlocks?
 
 competition
 	relaxed mode / arcade mode?
@@ -63,8 +56,16 @@ invite function
 	email, telnumber
 
 level up => reward / achievements
-	
-	
 
-
+(money)
+	shop? (no item shop if choosable items?)
+	ad? (watch to replenish lives, const. displ)
+	lifes?
+	themes / skins? (setting / story? fun skins?)
+	avatar / characters / heroes? (mash up / cross over)
+		ip? or generic characters
+		unlocking or buy heroes?
+		balancing?
+		loot boxes / boosters
+	level unlocks?
 </pre>
